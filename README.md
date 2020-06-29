@@ -1,8 +1,11 @@
 # Recommender_System_implicit-data
-Build recommender system using implicit data
+# Build recommender system using implicit data
 
 
 # We have tons for library for explicit recommendation system but problem aries when we dont have explicit rating from user , This is my approach for solving one such problem
+
+# There is no rating just sequence of challenges user has taken last 10 rounds, and we need to predict the next 3 round.
+
 
 # I have used the library Turicreate by Apple which is blazzing fast and its very good for ios and mac deployment
 
